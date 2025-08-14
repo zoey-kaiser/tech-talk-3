@@ -2,7 +2,7 @@
 
 Welcome to the third Sidestream Tech Talk-a thon! Below you can find the prompt to begin your little challenge. Good luck and have fun!
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/zoey-kaiser/tech-talk-3)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/zoey-kaiser/tech-talk-3)
 
 ## The prompt
 
