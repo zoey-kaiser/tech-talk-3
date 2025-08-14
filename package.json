@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build --preset github_pages",
+    "typecheck": "nuxt typecheck",
+    "lint": "eslint --max-warnings 0 .",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "4.0.3"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^5.2.1",
+    "@nuxt/icon": "^2.0.0",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "@types/node": "^24.2.1",
+    "eslint": "^9.33.0",
+    "typescript": "5.9.2",
+    "vue-tsc": "^3.0.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "packageManager": "pnpm@9.11.0"
+}
