@@ -2,6 +2,8 @@
 
 Welcome to the third Sidestream Tech Talk-a thon! Below you can find the prompt to begin your little challenge. Good luck and have fun!
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/zoey-kaiser/tech-talk-3)
+
 ## The prompt
 
 The prompt for this challenge is:
